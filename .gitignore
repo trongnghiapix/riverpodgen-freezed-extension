@@ -1,0 +1,28 @@
+# Node modules
+node_modules
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.tsproj
+*.sln
+*.sw?
+
+# Dist directory
+dist
+
+# Temp files
+*.tmp
+*.temp
+*.tscache
+
+# System files
+.DS_Store
+Thumbs.db
