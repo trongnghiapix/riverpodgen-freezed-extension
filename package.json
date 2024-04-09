@@ -2,7 +2,7 @@
   "name": "riverpodgen-freezed",
   "displayName": "riverpodgen-freezed",
   "description": "Inspired by Bloc extension, help us to create a provider + state using Riverpod gen + Freezed format.",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "publisher": "trongnghia94",
   "engines": {
     "vscode": "^1.75.0"
