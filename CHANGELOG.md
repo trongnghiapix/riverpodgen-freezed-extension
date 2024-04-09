@@ -1,9 +1,14 @@
 # Change Log
 
-All notable changes to the "riverpodgen-freezed" extension will be documented in this file.
+### 2.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Implemented sealed classes for pattern-matching, following the guidelines provided by Freezed (https://pub.dev/packages/freezed#legacy-union-types-and-sealed-classes).
+- Added an extension template.
 
-## [Unreleased]
+### 1.0.1
 
-- Initial release
+- Fix some minor bugs.
+
+### 1.0.0
+
+- Initial release of the extension.
